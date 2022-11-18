@@ -1,0 +1,43 @@
+.card {
+  height: 10rem;
+  padding: 1rem;
+  border-radius: 1rem;
+
+  background-color: var(--secondary-bkg);
+  color: var(--secondary-txt);
+  word-wrap: break-word;
+
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+
+  .profileImage {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+  }
+
+  .texts {
+    display: flex;
+    flex-direction: column;
+
+    h2 {
+      font-size: 1.2rem;
+      font-weight: 400;
+    }
+
+    .icons {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+
+      padding: 0.5rem 0;
+    }
+  }
+
+  &:last-child {
+    margin-bottom: 4rem;
+  }
+}
