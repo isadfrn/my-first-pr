@@ -4,7 +4,7 @@
 ![Repository size](https://img.shields.io/github/repo-size/isadfrn/my-first-pr?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/isadfrn/my-first-pr?style=flat-square)
 
-![](./src/assets/demo.gif)
+![](./src/assets/img/demo.gif)
 
 ## About
 

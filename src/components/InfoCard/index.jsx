@@ -1,5 +1,5 @@
-import linkedinIcon from '../../assets/linkedin.svg';
-import githubIcon from '../../assets/github.svg';
+import linkedinIcon from '../../assets/img/linkedin.svg';
+import githubIcon from '../../assets/img/github.svg';
 
 import './style.scss';
 
