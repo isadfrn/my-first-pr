@@ -8,7 +8,7 @@
 
 ## About
 
-One of the best ways to learn Git is to contribute to Open Source projects. And this project exists to help entry-level developers to make their first contribution to a project.
+One of the best ways to learn Git is to contribute to Open Source projects. And this project is to help entry-level developers to make their first contribution to a project.
 
 ## How to contribute
 
